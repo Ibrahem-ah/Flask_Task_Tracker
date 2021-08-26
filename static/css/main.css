@@ -1,0 +1,48 @@
+
+
+
+body {
+    margin-top: 0;
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+.content{
+    margin: 0 auto;
+    width: 500px;
+}
+
+
+.test{
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+}
+
+.test, table.test td, table.test th{
+    border: 1px solid;
+}
+
+.test{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table.test th{
+    height: 30px;
+    
+}
+
+
+
+table.test td{
+    text-align: center;
+    padding: 5px;
+    
+}
+.tt{
+    margin-top: 10px;
+}
+/* .form{
+    margin-top: 20px;
+} */
